@@ -2,12 +2,15 @@
   <head>
       <title> Pruebecilla <title>
   </head> 
-  <body>
+  <body>nn
+
       <h1> hola </h1>
-<<<<<<< HEAD
         <p> Me gusta Dellafuente y a ti </p>
         <p> Nose que poner aquí sinsero</p>
-=======
-        <p> Me gusta Dellafuente y a ti ?</p>
-      
->>>>>>> ff8a5993758f33c662b43d5cf445cc42dff2f9a8
+      <ol>
+        <li>angela</li>
+        <li>noelia</li>
+        <li>alejandro</li>
+        <li>sergio</li>
+        <li>minerva</li>
+      </ol>
